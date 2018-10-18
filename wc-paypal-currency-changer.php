@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WC PayPal Currency Changer
-Plugin URI: https://www.mcwebdesign.ro/2018/01/17/woocommerce-paypal-unsupported-currency-wordpress-plugin/
+Plugin URI: https://github.com/hypericumimpex/wc-paypal-currency-changer/
 Description: Converteste moneda nesuportata de ex RON la moneda PayPal "EUR", "GBP", sau "USD". După activare, puteți găsi plugin-ul în meniul admin WooCommerce "PayPal Currency". 
 Version: 1.0
 Author: Romeo C.
